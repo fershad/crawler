@@ -8,6 +8,8 @@ A very simple crawler which takes a website URL and maps all links.
 2. Run `npm install`
 3. Run `npm run scan <url>`
 
+Results are saved to in the `data` folder.
+
 ## Modify
 
 ### Exclude certain file types
